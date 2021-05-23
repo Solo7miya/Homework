@@ -1,0 +1,75 @@
+#logo {
+  margin-top: 40px;
+  margin-left: 1103px;
+  margin-right: 132px;
+  width: 205px;
+  height: 43px;
+  
+}
+#first {
+  width: 182px;
+  height: 24px;
+  margin-top: 50;
+  margin-left: 734px;
+  margin-right: 524px;
+}
+#second {
+  width: 75px;
+  height: 24px;
+  margin-top: 50px;
+  margin-left: 956px;
+  margin-right: 409px;
+}
+#third {
+  width: 91px;
+  height: 24px;
+  margin-top: 50px;
+  margin-left: 1071px;
+  margin-right: 278px;
+}
+#fourth {
+  width: 182px;
+  height: 24px;
+  margin-top: 50px;
+  margin-left: 1202px;
+  margin-right: 56px;
+  color: #71A894  ;
+}
+.add {
+  width: 608px;
+  height: 160px;
+  margin-top: 274px;
+  margin-left: 56px;
+  margin-right: 776px;
+}
+.other {
+  width: 608px;
+  height: 64px;
+  margin-top: 458px;
+  margin-left: 56px;
+  margin-right: 776px;
+} 
+.button {
+  background-color: #71A894;
+  color: white;
+  width: 219px;
+  height: 64px;
+  margin-top: 562px;
+  margin-left: 56px;
+  margin-right: 1165px;
+  padding-top: 20px;
+  padding-right: 24px;
+  padding-left: 24px;
+  padding-bottom: 20px;
+}
+.end {
+  width: 895px;
+  height: 64px;
+  margin-top: 1060px;
+  margin-left: 273px;
+  margin-right: 272px;
+}
+.endend {
+  width: 895px;
+  height: 52px;
+}
